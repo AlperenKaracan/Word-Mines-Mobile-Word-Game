@@ -1,0 +1,5 @@
+JWT_SECRET_KEY = " "
+ALGORITHM = "HS256"
+ACCESS_TOKEN_EXPIRE_MINUTES = 60
+MONGODB_URI = "mongodb://localhost:27017"
+DATABASE_NAME = "kelime_mayinlari"
